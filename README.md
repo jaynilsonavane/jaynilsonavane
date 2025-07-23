@@ -1,7 +1,7 @@
 # Hi there, I'm Jaynil 👋
 
 Data Engineer by trade, passionate about building robust data & ML pipelines that actually move the needle.  
-Currently leveling up my MLOps and AI engineering skills to automate, scale, and productionize ML at work (and for fun).  
+Currently leveling up my MLOps and AI engineering skills to automate, scale, and productionize ML for fun.  
 
 -  Working on: [MLOps Journey](https://github.com/jaynilsonavane/mlops-journey) — real-world experiments, learnings, and tools from the trenches
 -  Deep diving into: Docker, Kubernetes, Terraform, AWS, and everything cloud-native

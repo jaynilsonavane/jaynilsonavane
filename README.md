@@ -2,5 +2,5 @@
 I'm transitioning into MLOps!  
 - 🔭 Currently working on: [MLOps Journey](https://github.com/jaynilsonavane/mlops-journey)
 - 🌱 Learning: Docker, Kubernetes, Terraform, AWS
-- ✨ Fun fact: I used to be a Data Engineer, now I'm diving into MLOps & AI engineering.
+- ✨ Fun fact: I am a Data Engineer, now I'm diving into MLOps & AI engineering.
 
